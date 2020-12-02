@@ -6,5 +6,6 @@ As all the k-means usage functions are built from scratch they can be modified t
 
 ** I found the images on another user's githup repo. But I sadly dont remember which one. So if you find this and the collecton of images belong to you, feel free to ask for credits for the same.
 
-If you like the project please give a star. If you are feeling very generous leave a Follow as well.
+If you like the project please give a star. If you are feeling very generous connect at https://www.linkedin.com/in/shalinisil81.
+
 
